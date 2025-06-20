@@ -38,6 +38,11 @@ python app.py
 
 ---
 
+## ✨ Demo
+
+![GhiblifySample](https://github.com/user-attachments/assets/3a383337-fc1d-4768-9e5b-9f20c979b39e)
+
+
 ## ✨ Features
 
 - 🎨 **Ghibli-style AI transformation**
